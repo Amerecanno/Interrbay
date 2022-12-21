@@ -569,7 +569,7 @@ var/world_topic_spam_protect_time = world.timeofday
 
 	s += "<b>[station_name()]</b>";
 	s += " ("
-	s += "<a href=\"https://discord.gg/f3n2P9w\">" //Change this to wherever you want the hub to link to.
+	s += "<a href=\"https://discord.gg/c5zvcGYBrs\">" //Change this to wherever you want the hub to link to.
 	s += "Discord"
 	s += "</a>"
 	s += ")"
